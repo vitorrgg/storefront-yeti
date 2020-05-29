@@ -5,7 +5,7 @@
   "short_name": "My Shop",
   "description": "My PWA Shop",
   "primary_color": "#008cba",
-  "secondary_color": "#eeeeee",
+  "secondary_color": "#a3a3a3",
   "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "yeti"
